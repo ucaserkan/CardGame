@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\",
+  "WorkspaceRootPath": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\card game\\assets\\townmanagement\\city builder template\\scripts\\isometric\\_base_item\\baseitemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\townmanagement\\city builder template\\scripts\\isometric\\_base_item\\baseitemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\cardgame\\card game\\assets\\tcgengine\\scripts\\menu\\rankline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\tcgengine\\scripts\\menu\\rankline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\assets\\tcgengine\\scripts\\menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\tcgengine\\scripts\\menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\cardgame\\card game\\assets\\tcgengine\\scripts\\menu\\leaderboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\tcgengine\\scripts\\menu\\leaderboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\assets\\tcgengine\\scripts\\tools\\scenenav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\tcgengine\\scripts\\tools\\scenenav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\cardgame\\card game\\assets\\tcgengine\\scripts\\ui\\uipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\tcgengine\\scripts\\ui\\uipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\assets\\tcgengine\\scripts\\ui\\tabbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\assets\\tcgengine\\scripts\\ui\\tabbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\tcgengine\\scripts\\ui\\tabbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\assets\\townmanagement\\city builder template\\scripts\\isometric\\_base_item\\trainingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\cardgame\\card game\\assets\\townmanagement\\city builder template\\scripts\\isometric\\_base_item\\baseitemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\townmanagement\\city builder template\\scripts\\isometric\\_base_item\\baseitemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\assets\\tcgengine\\scripts\\menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\tcgengine\\scripts\\menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\assets\\tcgengine\\scripts\\tools\\scenenav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\tcgengine\\scripts\\tools\\scenenav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\assets\\townmanagement\\city builder template\\scripts\\isometric\\_base_item\\trainingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\townmanagement\\city builder template\\scripts\\isometric\\_base_item\\trainingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\assets\\townmanagement\\city builder template\\scripts\\ui\\windows\\info_window\\infowindowscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\assets\\townmanagement\\city builder template\\scripts\\ui\\windows\\info_window\\infowindowscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D19DF7-1BE9-9EA6-49CD-BC988723ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\townmanagement\\city builder template\\scripts\\ui\\windows\\info_window\\infowindowscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -39,10 +51,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RankLine.cs",
+              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Menu\\RankLine.cs",
+              "RelativeDocumentMoniker": "Assets\\TcgEngine\\Scripts\\Menu\\RankLine.cs",
+              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Menu\\RankLine.cs",
+              "RelativeToolTip": "Assets\\TcgEngine\\Scripts\\Menu\\RankLine.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:46:37.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaderboardPanel.cs",
+              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Menu\\LeaderboardPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\TcgEngine\\Scripts\\Menu\\LeaderboardPanel.cs",
+              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Menu\\LeaderboardPanel.cs",
+              "RelativeToolTip": "Assets\\TcgEngine\\Scripts\\Menu\\LeaderboardPanel.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwG4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:28:47.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIPanel.cs",
+              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\UI\\UIPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\TcgEngine\\Scripts\\UI\\UIPanel.cs",
+              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\UI\\UIPanel.cs",
+              "RelativeToolTip": "Assets\\TcgEngine\\Scripts\\UI\\UIPanel.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:24:37.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BaseItemScript.cs",
-              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\BaseItemScript.cs",
+              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\BaseItemScript.cs",
               "RelativeDocumentMoniker": "Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\BaseItemScript.cs",
-              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\BaseItemScript.cs",
+              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\BaseItemScript.cs",
               "RelativeToolTip": "Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\BaseItemScript.cs",
               "ViewState": "AQIAAI8AAAAAAAAAAAASwKUAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Menu\\MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Menu\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\TcgEngine\\Scripts\\Menu\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Menu\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Menu\\MainMenu.cs",
               "RelativeToolTip": "Assets\\TcgEngine\\Scripts\\Menu\\MainMenu.cs",
               "ViewState": "AQIAAOcAAAAAAAAAAAAUwP8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,21 +116,22 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "TabButton.cs",
-              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TcgEngine\\Scripts\\UI\\TabButton.cs",
+              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\UI\\TabButton.cs",
               "RelativeDocumentMoniker": "Assets\\TcgEngine\\Scripts\\UI\\TabButton.cs",
-              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TcgEngine\\Scripts\\UI\\TabButton.cs",
+              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\UI\\TabButton.cs",
               "RelativeToolTip": "Assets\\TcgEngine\\Scripts\\UI\\TabButton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T10:23:05.479Z"
+              "WhenOpened": "2024-06-17T10:23:05.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "InfoWindowScript.cs",
-              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\ui\\windows\\info_window\\InfoWindowScript.cs",
+              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\ui\\windows\\info_window\\InfoWindowScript.cs",
               "RelativeDocumentMoniker": "Assets\\TownManagement\\City Builder Template\\Scripts\\ui\\windows\\info_window\\InfoWindowScript.cs",
-              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\ui\\windows\\info_window\\InfoWindowScript.cs",
+              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\ui\\windows\\info_window\\InfoWindowScript.cs",
               "RelativeToolTip": "Assets\\TownManagement\\City Builder Template\\Scripts\\ui\\windows\\info_window\\InfoWindowScript.cs",
               "ViewState": "AQIAAFAAAAAAAAAAAAAIwBcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TrainingScript.cs",
-              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\TrainingScript.cs",
+              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\TrainingScript.cs",
               "RelativeDocumentMoniker": "Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\TrainingScript.cs",
-              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\TrainingScript.cs",
+              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\TrainingScript.cs",
               "RelativeToolTip": "Assets\\TownManagement\\City Builder Template\\Scripts\\isometric\\_base_item\\TrainingScript.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +151,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SceneNav.cs",
-              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Tools\\SceneNav.cs",
+              "DocumentMoniker": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Tools\\SceneNav.cs",
               "RelativeDocumentMoniker": "Assets\\TcgEngine\\Scripts\\Tools\\SceneNav.cs",
-              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Tools\\SceneNav.cs",
+              "ToolTip": "C:\\Users\\oguzh\\OneDrive\\Masa\u00FCst\u00FC\\CardGame\\CARD GAME\\Assets\\TcgEngine\\Scripts\\Tools\\SceneNav.cs",
               "RelativeToolTip": "Assets\\TcgEngine\\Scripts\\Tools\\SceneNav.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

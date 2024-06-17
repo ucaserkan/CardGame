@@ -19,6 +19,14 @@ namespace TcgEngine.UI
 
         private List<RankLine> lines = new List<RankLine>();
 
+        public List<string> usernames = new List<string>();
+
+        public List<string> ranking = new List<string>();
+
+        public List<string> elo = new List<string>();
+
+        public List<string> winrate = new List<string>();
+       
         private static LeaderboardPanel instance;
 
         protected override void Awake()
@@ -41,9 +49,13 @@ namespace TcgEngine.UI
             for (int i = 0; i < content.transform.childCount; i++)
                 Destroy(content.transform.GetChild(i).gameObject);
 
-            int nlines = 100;
+            int nlines = 10;
             for (int i = 0; i < nlines; i++)
             {
+                line_template.elo_txt.text = elo[i];
+                line_template.player.text = usernames[i];
+                line_template.ranking.text = ranking[i];
+                line_template.winrate_txt.text = winrate[i];
                 RankLine line = AddLine(line_template, i);
                 lines.Add(line);
             }
@@ -64,16 +76,16 @@ namespace TcgEngine.UI
             return rline;
         }
 
-        private async void RefreshPanel()
+      /*  private async void RefreshPanel()
         {
             my_line.Hide();
             foreach (RankLine line in lines)
                 line.Hide();
 
-            test_text.enabled = !Authenticator.Get().IsApi();
+            //test_text.enabled = !Authenticator.Get().IsApi();
 
-            if (!Authenticator.Get().IsApi())
-                return;
+           // if (!Authenticator.Get().IsApi())
+             //   return;
 
             UserData udata = ApiClient.Get().UserData;
 
@@ -109,17 +121,17 @@ namespace TcgEngine.UI
 
                 index++;
             }
-        }
+        }*/
 
         private void OnClickLine(string username)
         {
-
+            Debug.Log(username);
         }
 
         public override void Show(bool instant = false)
         {
             base.Show(instant);
-            RefreshPanel();
+            //RefreshPanel();
         }
 
         public void OnClickBack()

@@ -41,6 +41,15 @@ namespace TcgEngine.UI
             gameObject.SetActive(true);
         }
 
+        private void OnMouseEnter()
+        {
+            highlight.enabled = true;
+        }
+        private void OnMouseExit()
+        {
+            highlight.enabled = false;
+        }
+
         public void Hide()
         {
             gameObject.SetActive(false);
@@ -55,5 +64,11 @@ namespace TcgEngine.UI
         {
             onClick?.Invoke(username);
         }
+
+        public void ShowProfile()
+        {
+            Debug.Log(username);
+        }
+
     }
 }
