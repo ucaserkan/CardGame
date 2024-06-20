@@ -24,19 +24,19 @@ public class CategoryItemScript : MonoBehaviour {
 		this._category = category;
 
 		switch (this._category) {
-		case ShopWindowScript.Category.ARMY:
+		case ShopWindowScript.Category.TRAINING:
 			this.Name.text = "ARMY";
 			this.Image.sprite = this.ArmySprite;
 			break;
-		case ShopWindowScript.Category.DEFENCE:
+		case ShopWindowScript.Category.STADIUMS:
 			this.Name.text = "DEFENCE";
 			this.Image.sprite = this.DefenceSprite;
 			break;
-		case ShopWindowScript.Category.OTHER:
+		case ShopWindowScript.Category.MISCELLANEAOUS:
 			this.Name.text = "OTHER";
 			this.Image.sprite = this.OtherSprite;
 			break;
-		case ShopWindowScript.Category.RESOURCES:
+		case ShopWindowScript.Category.INCOME:
 			this.Name.text = "RESOURCES";
 			this.Image.sprite = this.ResourcesSprite;
 			break;

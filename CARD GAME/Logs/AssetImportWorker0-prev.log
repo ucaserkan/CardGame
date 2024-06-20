@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.3/staging' branch; Version is '2021.3.33f1 (ee5a2aa03ab2) revision 15620650'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 16310 MB
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'tr' Physical Memory: 16265 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2021.3.33f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/oguzh/OneDrive/Masaüstü/CardGame/CARD GAME
+C:/Users/asus/Desktop/GITHUB/CardGame/CardGame/CARD GAME
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49510
-Successfully changed project path to: C:/Users/oguzh/OneDrive/Masaüstü/CardGame/CARD GAME
-C:/Users/oguzh/OneDrive/Masaüstü/CardGame/CARD GAME
+50249
+Successfully changed project path to: C:/Users/asus/Desktop/GITHUB/CardGame/CardGame/CARD GAME
+C:/Users/asus/Desktop/GITHUB/CardGame/CardGame/CARD GAME
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,111 +47,111 @@ C:/Users/oguzh/OneDrive/Masaüstü/CardGame/CARD GAME
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [14176] Host "[IP] 192.168.1.61 [Port] 0 [Flags] 2 [Guid] 2465466984 [EditorId] 2465466984 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-O14C83C) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [6564] Host "[IP] 192.168.1.101 [Port] 0 [Flags] 2 [Guid] 3480523868 [EditorId] 3480523868 [Version] 1048832 [Id] WindowsEditor(7,UCA-ASUSLAP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [14176] Host "[IP] 192.168.1.61 [Port] 0 [Flags] 2 [Guid] 2465466984 [EditorId] 2465466984 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-O14C83C) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [6564] Host "[IP] 192.168.1.101 [Port] 0 [Flags] 2 [Guid] 3480523868 [EditorId] 3480523868 [Version] 1048832 [Id] WindowsEditor(7,UCA-ASUSLAP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
-Refreshing native plugins compatible for Editor in 124.04 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 152.58 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.33f1 (ee5a2aa03ab2)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.33f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/oguzh/OneDrive/Masaüstü/CardGame/CARD GAME/Assets
+[Subsystems] Discovering subsystems at path C:/Users/asus/Desktop/GITHUB/CardGame/CardGame/CARD GAME/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2486)
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
     Vendor:   NVIDIA
-    VRAM:     8024 MB
-    Driver:   32.0.15.5599
+    VRAM:     4020 MB
+    Driver:   31.0.15.4665
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.33f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.33f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56352
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007718 seconds.
+Registered in 0.020844 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 118.30 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 157.21 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.626 seconds
+- Completed reload, in  1.113 seconds
 Domain Reload Profiling:
-	ReloadAssembly (627ms)
-		BeginReloadAssembly (87ms)
+	ReloadAssembly (1113ms)
+		BeginReloadAssembly (147ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (439ms)
-			LoadAssemblies (85ms)
+		EndReloadAssembly (689ms)
+			LoadAssemblies (141ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (99ms)
+			SetupTypeCache (172ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (23ms)
-			SetupLoadedEditorAssemblies (280ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (409ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (13ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (118ms)
-				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (114ms)
-				ProcessInitializeOnLoadMethodAttributes (40ms)
+				RefreshPlugins (157ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (175ms)
+				ProcessInitializeOnLoadMethodAttributes (61ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.009882 seconds.
+Registered in 0.026502 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 122.01 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 169.68 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Completed reload, in  1.587 seconds
+- Completed reload, in  2.282 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1587ms)
-		BeginReloadAssembly (123ms)
+	ReloadAssembly (2283ms)
+		BeginReloadAssembly (213ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (17ms)
-		EndReloadAssembly (1353ms)
-			LoadAssemblies (108ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (1907ms)
+			LoadAssemblies (185ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (275ms)
+			SetupTypeCache (409ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (61ms)
-			SetupLoadedEditorAssemblies (896ms)
+			RebuildScriptCaches (92ms)
+			SetupLoadedEditorAssemblies (1205ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (10ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (122ms)
-				BeforeProcessingInitializeOnLoad (115ms)
-				ProcessInitializeOnLoadAttributes (574ms)
-				ProcessInitializeOnLoadMethodAttributes (72ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				RefreshPlugins (170ms)
+				BeforeProcessingInitializeOnLoad (180ms)
+				ProcessInitializeOnLoadAttributes (722ms)
+				ProcessInitializeOnLoadMethodAttributes (105ms)
+				AfterProcessingInitializeOnLoad (18ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.18 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 5683 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 51 unused Assets / (1.9 MB). Loaded Objects now: 6114.
-Memory consumption went from 230.5 MB to 228.5 MB.
-Total: 3.812200 ms (FindLiveObjects: 0.445100 ms CreateObjectMapping: 0.158000 ms MarkObjects: 2.681300 ms  DeleteObjects: 0.526700 ms)
+Unloading 51 unused Assets / (1.9 MB). Loaded Objects now: 6118.
+Memory consumption went from 230.7 MB to 228.8 MB.
+Total: 4.515600 ms (FindLiveObjects: 0.529200 ms CreateObjectMapping: 0.588700 ms MarkObjects: 2.835300 ms  DeleteObjects: 0.560600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -167,17 +167,85 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 1467709.351567 seconds.
-  path: Assets/UniversalRenderPipelineGlobalSettings.asset
-  artifactKey: Guid(848b9427f2367664299fb7ab23b72c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+  Time since last request: 544.679443 seconds.
+  path: Assets/TownManagement/City Builder Template/Animators
+  artifactKey: Guid(fbe953c8faf794832a06b9eb3c468c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Number of updated assets reloaded before import = 0
-Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(848b9427f2367664299fb7ab23b72c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f998d0a2d93690649ecae5c9a0fe8f5') in 0.036204 seconds 
-Number of asset objects unloaded after import = 1
+Start importing Assets/TownManagement/City Builder Template/Animators using Guid(fbe953c8faf794832a06b9eb3c468c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb465c1f27159a0076df5a7e8af21c20') in 0.013929 seconds 
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/DefaultNetworkPrefabs.asset
-  artifactKey: Guid(52385ad9cea547342ad1e2a94856c1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+  Time since last request: 0.655452 seconds.
+  path: Assets/TownManagement/City Builder Template/Textures/Characters
+  artifactKey: Guid(bbe5ba34bec4e46fd83391a51785d934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Number of updated assets reloaded before import = 0
-Start importing Assets/DefaultNetworkPrefabs.asset using Guid(52385ad9cea547342ad1e2a94856c1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a84476d44cca1b244e1be4db9fae72') in 0.007683 seconds 
-Number of asset objects unloaded after import = 1
+Start importing Assets/TownManagement/City Builder Template/Textures/Characters using Guid(bbe5ba34bec4e46fd83391a51785d934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0055f6d34f0d459e4b607479212a42') in 0.006879 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.055177 seconds.
+  path: Assets/TownManagement/City Builder Template/Textures/Characters/grave.png
+  artifactKey: Guid(74b4af59d730048c5be98600b96d6e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/TownManagement/City Builder Template/Textures/Characters/grave.png using Guid(74b4af59d730048c5be98600b96d6e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2679f8590c013fe3a5200a4ae93f2048') in 0.212295 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.534518 seconds.
+  path: Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan
+  artifactKey: Guid(afc91f3fa208144d78aba7e99546eab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan using Guid(afc91f3fa208144d78aba7e99546eab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f6701856822bc393d2f2d1fe1ca6156') in 0.005765 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.532344 seconds.
+  path: Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/idle
+  artifactKey: Guid(bdbbaaafcf6e5402bb15d9d557e404c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/idle using Guid(bdbbaaafcf6e5402bb15d9d557e404c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0c34d5378e19bdb8ff7a1a25489205a') in 0.007555 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.101590 seconds.
+  path: Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/idle/BR.png
+  artifactKey: Guid(8bd6a27b6c2cf4669ba172725f306138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/idle/BR.png using Guid(8bd6a27b6c2cf4669ba172725f306138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675d3b0200d653341140ecaab42156b8') in 0.039766 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 12.227491 seconds.
+  path: Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/walk
+  artifactKey: Guid(9e4cf7f5d14bf488aa8f1990a23b720a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/walk using Guid(9e4cf7f5d14bf488aa8f1990a23b720a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7c748558490b1925609e969e860ee11') in 0.003959 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.035054 seconds.
+  path: Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/walk/B.png
+  artifactKey: Guid(fd2f0a6c817b74b52805054e1d81a336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/walk/B.png using Guid(fd2f0a6c817b74b52805054e1d81a336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2a140152d23fb64f82a0e7b5bebe9c') in 0.077671 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/walk/T.png
+  artifactKey: Guid(2438ad4b1bdec4bd296fb74986b9c3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/walk/T.png using Guid(2438ad4b1bdec4bd296fb74986b9c3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b57620ae04fe1fb41aad84336b65dae1') in 0.040350 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/walk/TR.png
+  artifactKey: Guid(dc0677eac75d34fb1a1fadf1411db789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/TownManagement/City Builder Template/Textures/Characters/SwordMan/walk/TR.png using Guid(dc0677eac75d34fb1a1fadf1411db789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ee823f3967f578b3c3e44deeafab94') in 0.055507 seconds 
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

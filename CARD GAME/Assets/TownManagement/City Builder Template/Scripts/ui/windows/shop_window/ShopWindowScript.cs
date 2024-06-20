@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SocialPlatforms;
 using UnityEngine.UI;
+using static UnityEditor.PlayerSettings.WSA;
 
 public class ShopWindowScript : WindowScript {
 	/* prefabs */
@@ -14,10 +16,10 @@ public class ShopWindowScript : WindowScript {
 	public GameObject BackButton;
 
 	public enum Category {
-		ARMY,
-		DEFENCE,
-		RESOURCES,
-		OTHER,
+		TRAINING,
+		STADIUMS,
+		INCOME,
+		MISCELLANEAOUS,
 		TREASURE,
 		DECORATIONS
 	}
@@ -58,13 +60,15 @@ public class ShopWindowScript : WindowScript {
 		this.ClearItemsList ();
 
 		Category[] categories = new Category[] {
-			Category.ARMY,
-			Category.DECORATIONS,
-			Category.DEFENCE,
-			Category.OTHER,
-			Category.RESOURCES,
-			Category.TREASURE
-		};
+			Category.TRAINING,
+			Category.STADIUMS,
+			Category.INCOME,
+			Category.MISCELLANEAOUS,
+			Category.TREASURE,
+			Category.DECORATIONS };
+
+
+
 
 		for (int index = 0; index < categories.Length; index++) {
 			GameObject inst = Utilities.CreateInstance (this.CategoryItem, this.ItemsList, true);
@@ -87,19 +91,19 @@ public class ShopWindowScript : WindowScript {
 		SubCategory[] subItems = new SubCategory[0];
 
 		switch (category) {
-		case Category.ARMY:
+		case Category.TRAINING:
 			subItems = new SubCategory[]{ SubCategory.BARRACK, SubCategory.CAMP, SubCategory.BOAT};
 			break;
 		case Category.DECORATIONS:
 			subItems = new SubCategory[]{ SubCategory.TREE1, SubCategory.TREE2, SubCategory.TREE3};
 			break;
-		case Category.DEFENCE:
+		case Category.STADIUMS:
 			subItems = new SubCategory[]{ SubCategory.CANNON, SubCategory.TOWER};
 			break;
-		case Category.OTHER:
+		case Category.MISCELLANEAOUS:
 			subItems = new SubCategory[]{ SubCategory.TOWN_CENTER, SubCategory.BUILDER_HUT, SubCategory.WALL};
 			break;
-		case Category.RESOURCES:
+		case Category.INCOME:
 			subItems = new SubCategory[]{ SubCategory.ELIXIR_COLLECTOR, SubCategory.ELIXIR_STORAGE, SubCategory.GOLD_MINE, SubCategory.GOLD_STORAGE, SubCategory.WINDMILL};
 			break;
 		case Category.TREASURE:
